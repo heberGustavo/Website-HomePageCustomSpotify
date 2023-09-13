@@ -2,4 +2,4 @@ Pré-visualização do website
 
 URL: https://hebergustavo.github.io/Website-HomePageCustomSpotify/
 
-![spotify](https://github.com/heberGustavo/Websites/assets/44476616/b0883a27-d686-4905-8619-37e547ea098a)
+![image](https://github.com/heberGustavo/Website-HomePageCustomSpotify/assets/44476616/2bf54f16-ed6c-4cd8-98d4-b4073d41a93c)
